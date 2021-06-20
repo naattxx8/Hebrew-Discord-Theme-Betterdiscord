@@ -1,0 +1,124 @@
+/**
+ * @name HebrewLanguage
+ * @version 0.0.6
+ * @author Naattxx
+ * @authorId 556053788394258433
+ * @description Makes Discord Show In Hebrew!
+ * @invite X3DkwjtxzC
+ */
+
+
+ /*Search*/
+ .search-2oPWTC .public-DraftEditorPlaceholder-inner{
+    font-size: 0;
+}
+.search-2oPWTC .public-DraftEditorPlaceholder-inner:before{
+    content: "חפש";
+    font-size: 14px;
+}
+
+/*Headers*/
+.base-3dtUhz .content-98HsJk .container-1D34oG .container-1r6BKw.themed-ANHk51 .children-19S4PO .title-29uC1r.base-1x0h_U.size16-1P40sf{
+  font-size: 0%;
+}
+.base-3dtUhz .content-98HsJk .container-1D34oG .container-1r6BKw.themed-ANHk51 .children-19S4PO .title-29uC1r.base-1x0h_U.size16-1P40sf::before{
+  content: "חברים";
+  font-size: medium;
+}
+
+.base-3dtUhz .content-98HsJk .container-3Mxszk .libraryHeader-3g95kE.container-1r6BKw.themed-ANHk51 .children-19S4PO .title-29uC1r.base-1x0h_U.size16-1P40sf{
+  font-size: 0%;
+}
+.base-3dtUhz .content-98HsJk .container-3Mxszk .libraryHeader-3g95kE.container-1r6BKw.themed-ANHk51 .children-19S4PO .title-29uC1r.base-1x0h_U.size16-1P40sf::before{
+  content: "סִפְרִיָה";
+  font-size: medium;
+}
+.homeWrapperNormal-2KSUEa.homeWrapper-3-Wh5T .headerBar-1YYOfi.container-1r6BKw.themed-ANHk51 .children-19S4PO .title-29uC1r.base-1x0h_U.size16-1P40sf{
+  font-size: 0%;
+}
+.homeWrapperNormal-2KSUEa.homeWrapper-3-Wh5T .headerBar-1YYOfi.container-1r6BKw.themed-ANHk51 .children-19S4PO .title-29uC1r.base-1x0h_U.size16-1P40sf::before{
+  content: "ניטרו";
+  font-size: medium;
+}
+
+
+
+/*Not Selected*/
+#private-channels-0.channel-2QD9_O.container-2Pjhx-.clickable-1JJAn8
+.layout-2DM8Md .content-3QAtGj .nameAndDecorators-5FJ2dg .name-uJV0GL{
+  font-size: 0%;
+} 
+#private-channels-1.channel-2QD9_O.container-2Pjhx-.clickable-1JJAn8
+.layout-2DM8Md .content-3QAtGj .nameAndDecorators-5FJ2dg .name-uJV0GL{
+  font-size: 0%;
+} 
+#private-channels-2.channel-2QD9_O.container-2Pjhx-.clickable-1JJAn8
+.layout-2DM8Md .content-3QAtGj .nameAndDecorators-5FJ2dg .name-uJV0GL{
+  font-size: 0%;
+} 
+
+#private-channels-0.channel-2QD9_O.container-2Pjhx-.clickable-1JJAn8
+.layout-2DM8Md .content-3QAtGj .nameAndDecorators-5FJ2dg .name-uJV0GL::before{
+  content: "חברים";
+  font-size: medium;
+} 
+#private-channels-1.channel-2QD9_O.container-2Pjhx-.clickable-1JJAn8
+.layout-2DM8Md .content-3QAtGj .nameAndDecorators-5FJ2dg .name-uJV0GL::before{
+  content: "ספריה";
+  font-size: medium;
+} 
+#private-channels-2.channel-2QD9_O.container-2Pjhx-.clickable-1JJAn8
+.layout-2DM8Md .content-3QAtGj .nameAndDecorators-5FJ2dg .name-uJV0GL::before{
+  content: "ניטרו";
+  font-size: medium;
+} 
+
+/*Selected*/
+#private-channels-0.channel-2QD9_O.container-2Pjhx-.selected-aXhQR6
+.layout-2DM8Md .content-3QAtGj .nameAndDecorators-5FJ2dg .name-uJV0GL{
+  font-size: 0%;
+} 
+#private-channels-1.channel-2QD9_O.container-2Pjhx-.selected-aXhQR6
+.layout-2DM8Md .content-3QAtGj .nameAndDecorators-5FJ2dg .name-uJV0GL{
+  font-size: 0%;
+} 
+#private-channels-2.channel-2QD9_O.container-2Pjhx-.selected-aXhQR6
+.layout-2DM8Md .content-3QAtGj .nameAndDecorators-5FJ2dg .name-uJV0GL{
+  font-size: 0%;
+} 
+
+#private-channels-0.channel-2QD9_O.container-2Pjhx-.selected-aXhQR6
+.layout-2DM8Md .content-3QAtGj .nameAndDecorators-5FJ2dg .name-uJV0GL::before{
+  content: "חברים";
+  font-size: medium;
+} 
+#private-channels-1.channel-2QD9_O.container-2Pjhx-.selected-aXhQR6
+.layout-2DM8Md .content-3QAtGj .nameAndDecorators-5FJ2dg .name-uJV0GL::before{
+  content: "ספריה";
+  font-size: medium;
+} 
+#private-channels-2.channel-2QD9_O.container-2Pjhx-.selected-aXhQR6
+.layout-2DM8Md .content-3QAtGj .nameAndDecorators-5FJ2dg .name-uJV0GL::before{
+  content: "ניטרו";
+  font-size: medium;
+} 
+
+
+
+
+
+@import url(https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Fonts/DiscordFont.css);
+.typeWindows-1za-n7 {position:relative}
+.wordmark-2iDDfm {
+  display:flex;
+  align-items:center;
+  padding:0 6px;
+  height:calc(100% + 4px);
+  top:-4px;
+  width:fit-content;
+  font-size:18px;
+  font-weight:600;
+  font-family: 'Discord';
+}
+.wordmark-2iDDfm > svg {display:none}
+.wordmark-2iDDfm:after {content:'דיסקורד'}
